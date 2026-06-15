@@ -59,9 +59,9 @@ El objetivo de este proyecto fue poner en práctica temas vistos en clase como:
 * Desarrollo de videojuegos con Python.
 
 ## Autores
-Jennifer Guadalupe Mercado Leon
-Luis Jesus
-Angel Emir
-Daniel 
+* Jennifer Guadalupe Mercado Leon
+* Luis Jesus
+* Angel Emir
+* Daniel 
 
 Proyecto realizado como práctica académica para la materia de programación.
