@@ -1,4 +1,4 @@
-# Floating Pixel 🎮
+# Floating Pixel Game
 
 ## Descripción
 
