@@ -60,8 +60,8 @@ El objetivo de este proyecto fue poner en práctica temas vistos en clase como:
 
 ## Autores
 * Jennifer Guadalupe Mercado Leon
-* Luis Jesus
-* Angel Emir
-* Daniel 
+* Luis Jesus Cruz Contreras
+* Angel Emir Garcia Gallardo
+* Daniel Jacobo Vega
 
 Proyecto realizado como práctica académica para la materia de programación.
