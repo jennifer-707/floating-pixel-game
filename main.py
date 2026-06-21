@@ -21,8 +21,6 @@ ejecucion = True
 while ejecucion:
 
     for evento in pygame.event.get():
-        ...
-
     player.actualizar()
 
     tubos = mover_tubos(tubos)
